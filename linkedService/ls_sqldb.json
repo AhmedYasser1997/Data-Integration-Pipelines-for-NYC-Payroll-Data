@@ -1,0 +1,12 @@
+{
+	"name": "ls_sqldb",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=nycprojectsqlserver.database.windows.net;initial catalog=nycprojectsqldb;user id=ayasser97",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDYyQ0U4MUZFLTM2MzQtNDNGQy05NzcwLTZFQjY3OERBNkIxRV8wOWM4ODAzYi1mYjA5LTQ0MDktODNjZS0xNjU1NmYwZWQ4NTQiDQp9"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "nycprojectadf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a8d3fba-9235-4e89-9f83-655d1a2c6f9e",
+		"tenantId": "eace629b-1cc8-4ba6-9171-db92e669cd12"
+	}
+}
